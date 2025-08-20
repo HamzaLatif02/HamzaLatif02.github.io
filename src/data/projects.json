@@ -1,0 +1,44 @@
+[
+  {
+    "id": "legal-temporal-reasoning",
+    "title": "Legal Temporal Reasoning Benchmark",
+    "summary": "Benchmarking LLMs (GPT, Claude, Gemini, Llama, Mistral, Qwen) on UK & GDPR temporal reasoning with 12 task types; data pipelines in Python; visualized insights for 6 research questions.",
+    "year": 2024,
+    "tags": ["ML", "NLP", "DataViz"],
+    "technologies": ["Python", "NLP", "LLMs", "Data Pipelines", "Tableau"],
+    "image": "https://images.pexels.com/photos/159832/justice-law-case-hearing-159832.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "links": {
+      "code": "https://github.com/HamzaLatif02/llm_chronological_legal_benchmark",
+      "live": null,
+      "caseStudy": null
+    }
+  },
+  {
+    "id": "deepfake-detection",
+    "title": "Deepfake Detection Model", 
+    "summary": "Multi-class facial deepfake classifier (real/deepfake/faceswap) using ResNet variants; FaceForensics++; Python GUI for inference.",
+    "year": 2024,
+    "tags": ["ML", "CV"],
+    "technologies": ["TensorFlow", "PyTorch", "Computer Vision", "GUI"],
+    "image": "https://images.pexels.com/photos/8728380/pexels-photo-8728380.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "links": {
+      "code": null,
+      "live": "https://hamzalatif02.github.io/",
+      "caseStudy": null
+    }
+  },
+  {
+    "id": "airvia-ticket-sales",
+    "title": "AirVia Air Ticket Sales",
+    "summary": "Java + MySQL desktop system for ticket sales, reporting, and UI via Swing; group project (developer role).",
+    "year": 2023,
+    "tags": ["Systems"],
+    "technologies": ["Java", "MySQL", "Swing", "Software Eng"],
+    "image": "https://images.pexels.com/photos/723240/pexels-photo-723240.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "links": {
+      "code": null,
+      "live": "https://hamzalatif02.github.io/",
+      "caseStudy": null
+    }
+  }
+]
